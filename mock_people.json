@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "first_name": "Sarah",
+      "last_name": "Jones",
+      "email": "sarah@example.com",
+      "photo_video_consent": "granted"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Smith",
+      "email": "tom@example.com",
+      "photo_video_consent": "not_granted"
+    }
+  ]
+}
